@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://https://lhpellizzon.github.io/robofriends-app",
+  "homepage": "http://lhpellizzon.github.io/robofriends-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
